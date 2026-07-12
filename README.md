@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/Mamidi-Anvesh/DSA/tree/master/1672-richest-customer-wealth) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mamidi-Anvesh/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1920-build-array-from-permutation](https://github.com/Mamidi-Anvesh/DSA/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mamidi-Anvesh/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/1512-number-of-good-pairs) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Mamidi-Anvesh/DSA/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
