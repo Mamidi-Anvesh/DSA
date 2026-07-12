@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [1470-shuffle-the-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Mamidi-Anvesh/DSA/tree/master/1672-richest-customer-wealth) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mamidi-Anvesh/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
