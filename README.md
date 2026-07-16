@@ -7,6 +7,7 @@
 | [1512-number-of-good-pairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/1512-number-of-good-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Mamidi-Anvesh/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mamidi-Anvesh/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3945-digit-frequency-score](https://github.com/Mamidi-Anvesh/DSA/tree/master/3945-digit-frequency-score) |
 ## Number Theory
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [1512-number-of-good-pairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/1512-number-of-good-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Mamidi-Anvesh/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Mamidi-Anvesh/DSA/tree/master/3668-restore-finishing-order) |
+| [3945-digit-frequency-score](https://github.com/Mamidi-Anvesh/DSA/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
 | ------- |
