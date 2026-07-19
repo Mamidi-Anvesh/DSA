@@ -6,6 +6,7 @@
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/Mamidi-Anvesh/DSA/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Mamidi-Anvesh/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Mamidi-Anvesh/DSA/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Mamidi-Anvesh/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Mamidi-Anvesh/DSA/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Mamidi-Anvesh/DSA/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Mamidi-Anvesh/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mamidi-Anvesh/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -28,6 +30,7 @@
 | [1672-richest-customer-wealth](https://github.com/Mamidi-Anvesh/DSA/tree/master/1672-richest-customer-wealth) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mamidi-Anvesh/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1920-build-array-from-permutation](https://github.com/Mamidi-Anvesh/DSA/tree/master/1920-build-array-from-permutation) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mamidi-Anvesh/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2574-left-and-right-sum-differences](https://github.com/Mamidi-Anvesh/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Mamidi-Anvesh/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
