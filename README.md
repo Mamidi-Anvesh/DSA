@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/1512-number-of-good-pairs) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Mamidi-Anvesh/DSA/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Mamidi-Anvesh/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Mamidi-Anvesh/DSA/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mamidi-Anvesh/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -58,6 +59,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mamidi-Anvesh/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mamidi-Anvesh/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Mamidi-Anvesh/DSA/tree/master/2942-find-words-containing-character) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Mamidi-Anvesh/DSA/tree/master/3146-permutation-difference-between-two-strings) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mamidi-Anvesh/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Mamidi-Anvesh/DSA/tree/master/3794-reverse-string-prefix) |
 ## Prefix Sum
