@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/Mamidi-Anvesh/DSA/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -114,4 +115,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mamidi-Anvesh/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
