@@ -35,6 +35,7 @@
 | [1920-build-array-from-permutation](https://github.com/Mamidi-Anvesh/DSA/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mamidi-Anvesh/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Mamidi-Anvesh/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Mamidi-Anvesh/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mamidi-Anvesh/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
