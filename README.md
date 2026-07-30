@@ -13,6 +13,7 @@
 | [2413-smallest-even-multiple](https://github.com/Mamidi-Anvesh/DSA/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Mamidi-Anvesh/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Mamidi-Anvesh/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mamidi-Anvesh/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Mamidi-Anvesh/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mamidi-Anvesh/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3945-digit-frequency-score](https://github.com/Mamidi-Anvesh/DSA/tree/master/3945-digit-frequency-score) |
@@ -44,6 +45,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mamidi-Anvesh/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Mamidi-Anvesh/DSA/tree/master/2942-find-words-containing-character) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Mamidi-Anvesh/DSA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mamidi-Anvesh/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Mamidi-Anvesh/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Mamidi-Anvesh/DSA/tree/master/3668-restore-finishing-order) |
 ## Hash Table
@@ -61,6 +63,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/Mamidi-Anvesh/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Mamidi-Anvesh/DSA/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mamidi-Anvesh/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mamidi-Anvesh/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
 | ------- |
@@ -134,4 +137,8 @@
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Mamidi-Anvesh/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mamidi-Anvesh/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
