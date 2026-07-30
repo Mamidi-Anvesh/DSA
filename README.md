@@ -7,6 +7,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mamidi-Anvesh/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/1512-number-of-good-pairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/Mamidi-Anvesh/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/Mamidi-Anvesh/DSA/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Mamidi-Anvesh/DSA/tree/master/2235-add-two-integers) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/Mamidi-Anvesh/DSA/tree/master/1389-create-target-array-in-the-given-order) |
+| [1688-count-of-matches-in-tournament](https://github.com/Mamidi-Anvesh/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Mamidi-Anvesh/DSA/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mamidi-Anvesh/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mamidi-Anvesh/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
