@@ -76,6 +76,7 @@
 | ------- |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mamidi-Anvesh/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mamidi-Anvesh/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2000-reverse-prefix-of-word](https://github.com/Mamidi-Anvesh/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mamidi-Anvesh/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Mamidi-Anvesh/DSA/tree/master/2942-find-words-containing-character) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Mamidi-Anvesh/DSA/tree/master/3146-permutation-difference-between-two-strings) |
@@ -97,6 +98,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [2000-reverse-prefix-of-word](https://github.com/Mamidi-Anvesh/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mamidi-Anvesh/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/Mamidi-Anvesh/DSA/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mamidi-Anvesh/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [2000-reverse-prefix-of-word](https://github.com/Mamidi-Anvesh/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Tree
 |  |
 | ------- |
