@@ -16,6 +16,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Mamidi-Anvesh/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Mamidi-Anvesh/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mamidi-Anvesh/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Mamidi-Anvesh/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mamidi-Anvesh/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -70,6 +71,7 @@
 | [1920-build-array-from-permutation](https://github.com/Mamidi-Anvesh/DSA/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mamidi-Anvesh/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mamidi-Anvesh/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
@@ -152,4 +154,8 @@
 |  |
 | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mamidi-Anvesh/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Game Theory
+|  |
+| ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
