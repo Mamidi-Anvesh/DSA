@@ -62,6 +62,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Mamidi-Anvesh/DSA/tree/master/0141-linked-list-cycle) |
 | [1512-number-of-good-pairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/1512-number-of-good-pairs) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Mamidi-Anvesh/DSA/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Mamidi-Anvesh/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -108,6 +109,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Mamidi-Anvesh/DSA/tree/master/0141-linked-list-cycle) |
 | [2000-reverse-prefix-of-word](https://github.com/Mamidi-Anvesh/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mamidi-Anvesh/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/Mamidi-Anvesh/DSA/tree/master/3794-reverse-string-prefix) |
@@ -123,6 +125,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Mamidi-Anvesh/DSA/tree/master/0141-linked-list-cycle) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Mamidi-Anvesh/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Enumeration
 |  |
@@ -179,4 +182,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/0877-stone-game) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Mamidi-Anvesh/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
