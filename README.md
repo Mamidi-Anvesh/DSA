@@ -86,6 +86,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mamidi-Anvesh/DSA/tree/master/0020-valid-parentheses) |
 | [1528-shuffle-string](https://github.com/Mamidi-Anvesh/DSA/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mamidi-Anvesh/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Mamidi-Anvesh/DSA/tree/master/1678-goal-parser-interpretation) |
@@ -140,6 +141,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mamidi-Anvesh/DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mamidi-Anvesh/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [2000-reverse-prefix-of-word](https://github.com/Mamidi-Anvesh/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Tree
@@ -193,4 +195,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mamidi-Anvesh/DSA/tree/master/0141-linked-list-cycle) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mamidi-Anvesh/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
