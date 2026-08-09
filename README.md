@@ -19,6 +19,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Mamidi-Anvesh/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Mamidi-Anvesh/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mamidi-Anvesh/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Mamidi-Anvesh/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mamidi-Anvesh/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -62,6 +63,7 @@
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Mamidi-Anvesh/DSA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Mamidi-Anvesh/DSA/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Mamidi-Anvesh/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Mamidi-Anvesh/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mamidi-Anvesh/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Mamidi-Anvesh/DSA/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Mamidi-Anvesh/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
