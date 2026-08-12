@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mamidi-Anvesh/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mamidi-Anvesh/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -200,6 +201,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/0877-stone-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Dynamic Programming
@@ -209,6 +211,7 @@
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
@@ -226,4 +229,16 @@
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
