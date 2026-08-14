@@ -54,6 +54,7 @@
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Mamidi-Anvesh/DSA/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mamidi-Anvesh/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mamidi-Anvesh/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Mamidi-Anvesh/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mamidi-Anvesh/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -80,6 +81,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mamidi-Anvesh/DSA/tree/master/0141-linked-list-cycle) |
 | [1512-number-of-good-pairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/1512-number-of-good-pairs) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mamidi-Anvesh/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Mamidi-Anvesh/DSA/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Mamidi-Anvesh/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Mamidi-Anvesh/DSA/tree/master/3668-restore-finishing-order) |
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/1512-number-of-good-pairs) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mamidi-Anvesh/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Matrix
 |  |
 | ------- |
