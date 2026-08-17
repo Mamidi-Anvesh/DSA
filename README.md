@@ -14,6 +14,7 @@
 | [1952-three-divisors](https://github.com/Mamidi-Anvesh/DSA/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Mamidi-Anvesh/DSA/tree/master/2119-a-number-after-a-double-reversal) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mamidi-Anvesh/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/Mamidi-Anvesh/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Mamidi-Anvesh/DSA/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Mamidi-Anvesh/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -153,6 +154,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Mamidi-Anvesh/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mamidi-Anvesh/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mamidi-Anvesh/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/2974-minimum-number-game) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Mamidi-Anvesh/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -196,6 +198,7 @@
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mamidi-Anvesh/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Mamidi-Anvesh/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mamidi-Anvesh/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Counting Sort
 |  |
 | ------- |
