@@ -104,6 +104,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mamidi-Anvesh/DSA/tree/master/0020-valid-parentheses) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Mamidi-Anvesh/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1528-shuffle-string](https://github.com/Mamidi-Anvesh/DSA/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mamidi-Anvesh/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Mamidi-Anvesh/DSA/tree/master/1678-goal-parser-interpretation) |
@@ -124,6 +125,7 @@
 ## Counting
 |  |
 | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Mamidi-Anvesh/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mamidi-Anvesh/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Matrix
@@ -192,6 +194,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Mamidi-Anvesh/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Mamidi-Anvesh/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Counting Sort
 |  |
