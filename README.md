@@ -62,6 +62,7 @@
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mamidi-Anvesh/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Mamidi-Anvesh/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Mamidi-Anvesh/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Mamidi-Anvesh/DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -139,6 +140,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mamidi-Anvesh/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Mamidi-Anvesh/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Mamidi-Anvesh/DSA/tree/master/1672-richest-customer-wealth) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Mamidi-Anvesh/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Mamidi-Anvesh/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mamidi-Anvesh/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Mamidi-Anvesh/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mamidi-Anvesh/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/2974-minimum-number-game) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Mamidi-Anvesh/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
