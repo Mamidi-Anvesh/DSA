@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mamidi-Anvesh/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -239,6 +240,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/Mamidi-Anvesh/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0877-stone-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Mamidi-Anvesh/DSA/tree/master/1143-longest-common-subsequence) |
@@ -288,4 +290,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Mamidi-Anvesh/DSA/tree/master/0300-longest-increasing-subsequence) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
