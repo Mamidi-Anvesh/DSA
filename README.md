@@ -43,6 +43,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Mamidi-Anvesh/DSA/tree/master/0075-sort-colors) |
 | [0300-longest-increasing-subsequence](https://github.com/Mamidi-Anvesh/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Mamidi-Anvesh/DSA/tree/master/0322-coin-change) |
 | [0877-stone-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/0877-stone-game) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Mamidi-Anvesh/DSA/tree/master/1313-decompress-run-length-encoded-list) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mamidi-Anvesh/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -242,6 +243,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/Mamidi-Anvesh/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Mamidi-Anvesh/DSA/tree/master/0322-coin-change) |
 | [0877-stone-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Mamidi-Anvesh/DSA/tree/master/1143-longest-common-subsequence) |
 ## Minimax
@@ -294,4 +296,16 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Mamidi-Anvesh/DSA/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Mamidi-Anvesh/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Mamidi-Anvesh/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
