@@ -115,6 +115,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mamidi-Anvesh/DSA/tree/master/0020-valid-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/Mamidi-Anvesh/DSA/tree/master/1143-longest-common-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mamidi-Anvesh/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1528-shuffle-string](https://github.com/Mamidi-Anvesh/DSA/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mamidi-Anvesh/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -237,6 +238,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/Mamidi-Anvesh/DSA/tree/master/1143-longest-common-subsequence) |
 ## Minimax
 |  |
 | ------- |
@@ -275,4 +277,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mamidi-Anvesh/DSA/tree/master/0075-sort-colors) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Mamidi-Anvesh/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
