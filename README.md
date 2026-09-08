@@ -46,6 +46,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Mamidi-Anvesh/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Mamidi-Anvesh/DSA/tree/master/0322-coin-change) |
 | [0877-stone-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/0877-stone-game) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Mamidi-Anvesh/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Mamidi-Anvesh/DSA/tree/master/1313-decompress-run-length-encoded-list) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mamidi-Anvesh/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Mamidi-Anvesh/DSA/tree/master/1389-create-target-array-in-the-given-order) |
@@ -247,6 +248,7 @@
 | [0322-coin-change](https://github.com/Mamidi-Anvesh/DSA/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Mamidi-Anvesh/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/0877-stone-game) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Mamidi-Anvesh/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1143-longest-common-subsequence](https://github.com/Mamidi-Anvesh/DSA/tree/master/1143-longest-common-subsequence) |
 ## Minimax
 |  |
@@ -315,4 +317,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Mamidi-Anvesh/DSA/tree/master/0509-fibonacci-number) |
+## Triangulation
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Mamidi-Anvesh/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Polygons
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Mamidi-Anvesh/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 <!---LeetCode Topics End-->
