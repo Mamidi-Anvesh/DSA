@@ -30,6 +30,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mamidi-Anvesh/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mamidi-Anvesh/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mamidi-Anvesh/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3870-count-commas-in-range](https://github.com/Mamidi-Anvesh/DSA/tree/master/3870-count-commas-in-range) |
 | [3945-digit-frequency-score](https://github.com/Mamidi-Anvesh/DSA/tree/master/3945-digit-frequency-score) |
 ## Number Theory
 |  |
