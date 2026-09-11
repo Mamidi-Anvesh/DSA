@@ -160,6 +160,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Mamidi-Anvesh/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Mamidi-Anvesh/DSA/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/Mamidi-Anvesh/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/Mamidi-Anvesh/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mamidi-Anvesh/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mamidi-Anvesh/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -188,6 +189,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mamidi-Anvesh/DSA/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/Mamidi-Anvesh/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Mamidi-Anvesh/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Mamidi-Anvesh/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Enumeration
