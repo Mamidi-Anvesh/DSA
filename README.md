@@ -76,6 +76,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Mamidi-Anvesh/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Mamidi-Anvesh/DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Mamidi-Anvesh/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Mamidi-Anvesh/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mamidi-Anvesh/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Mamidi-Anvesh/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -199,6 +200,7 @@
 | ------- |
 | [1952-three-divisors](https://github.com/Mamidi-Anvesh/DSA/tree/master/1952-three-divisors) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mamidi-Anvesh/DSA/tree/master/2367-number-of-arithmetic-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Mamidi-Anvesh/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mamidi-Anvesh/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Stack
 |  |
