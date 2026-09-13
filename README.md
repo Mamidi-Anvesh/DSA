@@ -81,6 +81,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/Mamidi-Anvesh/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mamidi-Anvesh/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Mamidi-Anvesh/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Mamidi-Anvesh/DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2942-find-words-containing-character](https://github.com/Mamidi-Anvesh/DSA/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/2974-minimum-number-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Mamidi-Anvesh/DSA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -227,6 +228,7 @@
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mamidi-Anvesh/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/1486-xor-operation-in-an-array) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Mamidi-Anvesh/DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Greedy
 |  |
 | ------- |
