@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Mamidi-Anvesh/DSA/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/Mamidi-Anvesh/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/0877-stone-game) |
@@ -231,6 +232,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Mamidi-Anvesh/DSA/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mamidi-Anvesh/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Mamidi-Anvesh/DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -334,6 +336,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Mamidi-Anvesh/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Mamidi-Anvesh/DSA/tree/master/0509-fibonacci-number) |
 ## Triangulation
 |  |
