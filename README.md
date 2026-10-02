@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mamidi-Anvesh/DSA/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mamidi-Anvesh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/Mamidi-Anvesh/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Mamidi-Anvesh/DSA/tree/master/0322-coin-change) |
 | [0877-stone-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/0877-stone-game) |
@@ -262,6 +263,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mamidi-Anvesh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/Mamidi-Anvesh/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Mamidi-Anvesh/DSA/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Mamidi-Anvesh/DSA/tree/master/0509-fibonacci-number) |
