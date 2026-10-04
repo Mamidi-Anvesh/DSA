@@ -58,6 +58,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mamidi-Anvesh/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mamidi-Anvesh/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1512-number-of-good-pairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Mamidi-Anvesh/DSA/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/Mamidi-Anvesh/DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -220,6 +221,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Mamidi-Anvesh/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mamidi-Anvesh/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Mamidi-Anvesh/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mamidi-Anvesh/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mamidi-Anvesh/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Mamidi-Anvesh/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Tree
@@ -362,4 +364,8 @@
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Mamidi-Anvesh/DSA/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mamidi-Anvesh/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
