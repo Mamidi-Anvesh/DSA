@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/Mamidi-Anvesh/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Mamidi-Anvesh/DSA/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/0292-nim-game) |
 | [0507-perfect-number](https://github.com/Mamidi-Anvesh/DSA/tree/master/0507-perfect-number) |
@@ -38,6 +39,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Mamidi-Anvesh/DSA/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Mamidi-Anvesh/DSA/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Mamidi-Anvesh/DSA/tree/master/2413-smallest-even-multiple) |
@@ -48,6 +50,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Mamidi-Anvesh/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mamidi-Anvesh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0204-count-primes](https://github.com/Mamidi-Anvesh/DSA/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Mamidi-Anvesh/DSA/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Mamidi-Anvesh/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Mamidi-Anvesh/DSA/tree/master/0322-coin-change) |
@@ -210,6 +213,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Mamidi-Anvesh/DSA/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Mamidi-Anvesh/DSA/tree/master/1952-three-divisors) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mamidi-Anvesh/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mamidi-Anvesh/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -369,4 +373,16 @@
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mamidi-Anvesh/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Mamidi-Anvesh/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Mamidi-Anvesh/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Mamidi-Anvesh/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
