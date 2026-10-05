@@ -7,6 +7,7 @@
 | [0070-climbing-stairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Mamidi-Anvesh/DSA/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/0292-nim-game) |
+| [0507-perfect-number](https://github.com/Mamidi-Anvesh/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Mamidi-Anvesh/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mamidi-Anvesh/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
