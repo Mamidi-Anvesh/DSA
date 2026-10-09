@@ -20,6 +20,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Mamidi-Anvesh/DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mamidi-Anvesh/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2235-add-two-integers](https://github.com/Mamidi-Anvesh/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Mamidi-Anvesh/DSA/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Mamidi-Anvesh/DSA/tree/master/2427-number-of-common-factors) |
@@ -43,6 +44,7 @@
 | [0204-count-primes](https://github.com/Mamidi-Anvesh/DSA/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Mamidi-Anvesh/DSA/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/Mamidi-Anvesh/DSA/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Mamidi-Anvesh/DSA/tree/master/2427-number-of-common-factors) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Mamidi-Anvesh/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -83,6 +85,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Mamidi-Anvesh/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Mamidi-Anvesh/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mamidi-Anvesh/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Mamidi-Anvesh/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -130,6 +133,7 @@
 | [1929-concatenation-of-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Mamidi-Anvesh/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Mamidi-Anvesh/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/2974-minimum-number-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -400,4 +404,8 @@
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Mamidi-Anvesh/DSA/tree/master/2427-number-of-common-factors) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
