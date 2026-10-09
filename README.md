@@ -38,6 +38,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mamidi-Anvesh/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mamidi-Anvesh/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Mamidi-Anvesh/DSA/tree/master/3870-count-commas-in-range) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Mamidi-Anvesh/DSA/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3945-digit-frequency-score](https://github.com/Mamidi-Anvesh/DSA/tree/master/3945-digit-frequency-score) |
 ## Number Theory
 |  |
@@ -51,6 +52,7 @@
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Mamidi-Anvesh/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mamidi-Anvesh/DSA/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mamidi-Anvesh/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Mamidi-Anvesh/DSA/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Array
 |  |
 | ------- |
