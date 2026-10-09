@@ -34,6 +34,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Mamidi-Anvesh/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mamidi-Anvesh/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mamidi-Anvesh/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mamidi-Anvesh/DSA/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mamidi-Anvesh/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mamidi-Anvesh/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Mamidi-Anvesh/DSA/tree/master/3870-count-commas-in-range) |
@@ -48,6 +49,7 @@
 | [2413-smallest-even-multiple](https://github.com/Mamidi-Anvesh/DSA/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Mamidi-Anvesh/DSA/tree/master/2427-number-of-common-factors) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Mamidi-Anvesh/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mamidi-Anvesh/DSA/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mamidi-Anvesh/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
@@ -138,6 +140,7 @@
 | [2974-minimum-number-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/2974-minimum-number-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Mamidi-Anvesh/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mamidi-Anvesh/DSA/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
 | ------- |
@@ -160,6 +163,7 @@
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Mamidi-Anvesh/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Mamidi-Anvesh/DSA/tree/master/2942-find-words-containing-character) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Mamidi-Anvesh/DSA/tree/master/3146-permutation-difference-between-two-strings) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mamidi-Anvesh/DSA/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mamidi-Anvesh/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Mamidi-Anvesh/DSA/tree/master/3794-reverse-string-prefix) |
 ## Prefix Sum
@@ -408,4 +412,5 @@
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mamidi-Anvesh/DSA/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
