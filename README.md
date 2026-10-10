@@ -73,6 +73,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mamidi-Anvesh/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1512-number-of-good-pairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Mamidi-Anvesh/DSA/tree/master/1528-shuffle-string) |
+| [1534-count-good-triplets](https://github.com/Mamidi-Anvesh/DSA/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/Mamidi-Anvesh/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mamidi-Anvesh/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Mamidi-Anvesh/DSA/tree/master/1672-richest-customer-wealth) |
@@ -230,6 +231,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Mamidi-Anvesh/DSA/tree/master/0204-count-primes) |
+| [1534-count-good-triplets](https://github.com/Mamidi-Anvesh/DSA/tree/master/1534-count-good-triplets) |
 | [1952-three-divisors](https://github.com/Mamidi-Anvesh/DSA/tree/master/1952-three-divisors) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mamidi-Anvesh/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/Mamidi-Anvesh/DSA/tree/master/2427-number-of-common-factors) |
