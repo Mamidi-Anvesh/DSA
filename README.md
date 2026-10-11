@@ -14,6 +14,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mamidi-Anvesh/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mamidi-Anvesh/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/1486-xor-operation-in-an-array) |
+| [1492-the-kth-factor-of-n](https://github.com/Mamidi-Anvesh/DSA/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/Mamidi-Anvesh/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/Mamidi-Anvesh/DSA/tree/master/1952-three-divisors) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Mamidi-Anvesh/DSA/tree/master/0204-count-primes) |
+| [1492-the-kth-factor-of-n](https://github.com/Mamidi-Anvesh/DSA/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/Mamidi-Anvesh/DSA/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -417,4 +419,8 @@
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Mamidi-Anvesh/DSA/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Mamidi-Anvesh/DSA/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
