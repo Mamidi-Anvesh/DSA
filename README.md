@@ -116,6 +116,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mamidi-Anvesh/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mamidi-Anvesh/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/Mamidi-Anvesh/DSA/tree/master/3668-restore-finishing-order) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Mamidi-Anvesh/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Mamidi-Anvesh/DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -221,6 +222,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mamidi-Anvesh/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Mamidi-Anvesh/DSA/tree/master/2974-minimum-number-game) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Mamidi-Anvesh/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Mamidi-Anvesh/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Mamidi-Anvesh/DSA/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -281,6 +283,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/Mamidi-Anvesh/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Mamidi-Anvesh/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Mamidi-Anvesh/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Mamidi-Anvesh/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
 |  |
 | ------- |
