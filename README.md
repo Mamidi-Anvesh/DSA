@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mamidi-Anvesh/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Mamidi-Anvesh/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Mamidi-Anvesh/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mamidi-Anvesh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Mamidi-Anvesh/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mamidi-Anvesh/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Mamidi-Anvesh/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Mamidi-Anvesh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Mamidi-Anvesh/DSA/tree/master/0141-linked-list-cycle) |
 | [1512-number-of-good-pairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/1512-number-of-good-pairs) |
@@ -156,6 +158,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mamidi-Anvesh/DSA/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Mamidi-Anvesh/DSA/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/Mamidi-Anvesh/DSA/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Mamidi-Anvesh/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/Mamidi-Anvesh/DSA/tree/master/1143-longest-common-subsequence) |
@@ -219,6 +222,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mamidi-Anvesh/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Mamidi-Anvesh/DSA/tree/master/0075-sort-colors) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mamidi-Anvesh/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
