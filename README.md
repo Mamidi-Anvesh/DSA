@@ -62,6 +62,7 @@
 | [0001-two-sum](https://github.com/Mamidi-Anvesh/DSA/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Mamidi-Anvesh/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mamidi-Anvesh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Mamidi-Anvesh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0204-count-primes](https://github.com/Mamidi-Anvesh/DSA/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Mamidi-Anvesh/DSA/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Mamidi-Anvesh/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mamidi-Anvesh/DSA/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Mamidi-Anvesh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Mamidi-Anvesh/DSA/tree/master/0141-linked-list-cycle) |
 | [1512-number-of-good-pairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mamidi-Anvesh/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -431,4 +433,8 @@
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Mamidi-Anvesh/DSA/tree/master/1492-the-kth-factor-of-n) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Mamidi-Anvesh/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
