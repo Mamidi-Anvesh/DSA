@@ -59,6 +59,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mamidi-Anvesh/DSA/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Mamidi-Anvesh/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mamidi-Anvesh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/Mamidi-Anvesh/DSA/tree/master/0204-count-primes) |
@@ -122,6 +123,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mamidi-Anvesh/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Mamidi-Anvesh/DSA/tree/master/0141-linked-list-cycle) |
 | [1512-number-of-good-pairs](https://github.com/Mamidi-Anvesh/DSA/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Mamidi-Anvesh/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
